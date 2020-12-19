@@ -1,2 +1,1 @@
-# Password-generator-Manjula
-Password generator
+# Password Generator Starter Code
