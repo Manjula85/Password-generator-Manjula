@@ -4,10 +4,12 @@
 This is a website to generate a password based on user input
 
 ## Built With
-(Page)
+
+#### Webpage coding
 * HTML
 * CSS
-(Coding)
+
+#### Coding
 * JavaScript
 
 ## Website
