@@ -1,7 +1,7 @@
 # Password Generator Starter Code
 
 ## Purpose
-This is a website to generate a password based on user input
+This is a website to generate a password based on user input.
 
 ## Built With
 
@@ -9,7 +9,7 @@ This is a website to generate a password based on user input
 * HTML
 * CSS
 
-#### Coding
+#### Logic coding
 * JavaScript
 
 ## Website
